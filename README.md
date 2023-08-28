@@ -9,3 +9,9 @@ Mis tres **_hobbies_** preferidos son:
 - Bailar
 - Maquillar
 - Diseño gráfico
+
+Las ciudades que he visitado son:
+
+1. Pasto
+1. Bogotá
+1. Quito
